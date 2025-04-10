@@ -6,6 +6,10 @@
 * [Homework 1](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-01/W1_HW1_SQL_NinjaTraining_(dla_tutorial).ipynb)
 
 ## Week 2
+* [Tutorial 3](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-02/W2_Tutorial_03_DLATK_intro_1gramExtraction_(dla_tutorial).ipynb)
+* Tutorial 4
+* Homework 2
+
 
 ## Week 3
 
