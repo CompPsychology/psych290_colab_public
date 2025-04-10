@@ -8,7 +8,7 @@
 ## Week 2
 * [Tutorial 3](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-02/W2_Tutorial_03_DLATK_intro_1gramExtraction_(dla_tutorial).ipynb)
 * [Tutorial 4](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-02/W2_Tutorial_04_DLATK_metaTablesComplexity_(dla_tutorial).ipynb)
-* Homework 2
+* [Homework 2](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-02/W2_HW2_DLA_FeatExtractionMeta_(dla_tutorial).ipynb)
 
 
 ## Week 3
