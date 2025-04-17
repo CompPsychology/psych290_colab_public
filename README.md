@@ -12,5 +12,11 @@
 
 
 ## Week 3
+* [Tutorial 5](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-03/W3_Tutorial_05_DLATK_lexiconExtraction_mostFreqWords_(dla_tutorial).ipynb)
+* [Tutorial 5B (mini)](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-03/W3_Tutorial_05B_mini_tutorial_saving_SQLite_in_GoogleDrive_(dla_tutorial).ipynb)
+* [Homework 3](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-03/W3_HW3_DLATK_lexicon_extraction_(dla_tutorial).ipynb)
+
 
 ## Week 4
+
+## Week 5
