@@ -18,5 +18,8 @@
 
 
 ## Week 4
+* Tutorial 6
+* Table Excel template
+* HW 4
 
 ## Week 5
