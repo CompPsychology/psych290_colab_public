@@ -1,4 +1,7 @@
 # PSYCH 290 Colab Notebooks
+## Colab Support Notebooks
+* [How to get a fresh copy of database files!](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/colab-support/ColabSupport_gettting_fresh_database_files.ipynb)
+
 ## Week 1
 * [Tutorial 1A](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-01/W1_Tutorial_01A_SQL_Intro_(album).ipynb)
 * [Tutorial 1A](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-01/W1_Tutorial_01B_SQL_where_(album)_preHW1.ipynb)
