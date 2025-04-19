@@ -21,8 +21,8 @@
 
 
 ## Week 4
-* Tutorial 6
-* Table Excel template
-* HW 4
+* [Tutorial 6](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-04/W4_Tutorial_06_DLATK_lex_correlation_(dla_tutorial).ipynb)
+* [Excel Table template](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-04/W4_Tutorial_06_TABLE_wordsWithinDictionaryFormatting%20(2).xlsx) (just download it and open in excel!)
+* [HW 4](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-04/W4_HW4_DLA_LexCorrelation_(dla_tutorial).ipynb)
 
 ## Week 5
