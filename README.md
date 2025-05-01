@@ -26,3 +26,6 @@
 * [HW 4](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-04/W4_HW4_DLA_LexCorrelation_(dla_tutorial).ipynb)
 
 ## Week 5
+* [Tutorial 7](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-05/W5_Tutorial_07_R_dataImport_metaTablePlots_(csv).ipynb)
+* Tutorial 8
+* HW 5
