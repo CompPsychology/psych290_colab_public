@@ -29,3 +29,7 @@
 * [Tutorial 7](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-05/W5_Tutorial_07_R_dataImport_metaTablePlots_(csv).ipynb)
 * [Tutorial 8](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-05/W5_Tutorial_08_R_featTable_statsAndPlots_preHW5_(dla_tutorial).ipynb)
 * [HW 5](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-05/W5_HW5_R_statsWithDLATKTables_(hw5_csv).ipynb)
+
+## Week 6
+* [Tutorial 9](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-06/W6_Tutorial_09_DLATK_1to3gram_tuneCorrelation_(dla_tutorial).ipynb)
+* HW 6
