@@ -32,4 +32,9 @@
 
 ## Week 6
 * [Tutorial 9](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-06/W6_Tutorial_09_DLATK_1to3gram_tuneCorrelation_(dla_tutorial).ipynb)
-* HW 6
+* [HW 6](http://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-06/W6_HW6_DLATK_1to3grams_(dla_tutorial%2Cblog_authorship%2Csvitlana).ipynb)
+
+## Week 7
+* [Tutroial 10](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-07/W7_Tutorial_10_DLATK_extracting_correlating_topics_R_(dla_tutorial).ipynb)
+* [Tutorial 11](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-07/W7_Tutorial_11_DLATK_modeling_LDA_topics_(dla_tutorial%2Csvitlana).ipynb)
+* [HW 7](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-07/W7_HW7_DLATK_modeling_extracting_correlating_topics_R_(dla_tutorial%2Cblog_authorshop%2Csvitlana).ipynb)
