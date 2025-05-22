@@ -38,3 +38,8 @@
 * [Tutroial 10](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-07/W7_Tutorial_10_DLATK_extracting_correlating_topics_R_(dla_tutorial).ipynb)
 * [Tutorial 11](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-07/W7_Tutorial_11_DLATK_modeling_LDA_topics_(dla_tutorial%2Csvitlana).ipynb)
 * [HW 7](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-07/W7_HW7_DLATK_modeling_extracting_correlating_topics_R_(dla_tutorial%2Cblog_authorshop%2Csvitlana).ipynb)
+
+
+---
+
+(c) Johannes Eichstaedt, Samuel Campione & the World Well-Being Project, 2025.
