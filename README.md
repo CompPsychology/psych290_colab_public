@@ -41,9 +41,9 @@
 
 ## Week 8
 * [Mini Tutorial](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-08/W8_mini_tutorial_ImportandUseNewData_R_DLATK.ipynb) (This will help you work with your own data and do some basic analysis!)
-* Tutroial 12: the everything tutorial!
-* Tutorial 13 
-* Tutorial 14
+* [Tutroial 12](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-08/W8_Tutorial_12_The_Everything_Tutorial_new.ipynb): the everything tutorial!
+* [Tutorial 13](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-08/W8_Tutorial_13_Reddit_Scraping.ipynb)
+* [Tutorial 14](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-08/W8_Tutorial_14_DLATK_machine_learning_(dla_tutorial%2Csvitlana).ipynb)
 
 ## Week 9
 * Tutorial 15
