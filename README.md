@@ -40,10 +40,10 @@
 * [HW 7](https://github.com/CompPsychology/psych290_colab_public/blob/main/notebooks/week-07/W7_HW7_DLATK_modeling_extracting_correlating_topics_R_(dla_tutorial%2Cblog_authorshop%2Csvitlana).ipynb)
 
 ## Week 8
-* [Mini Tutorial]() (This will help you work with your own data and do some basic analysis!)
-* [Tutroial 12](): the everything tutorial!
-* [Tutorial 13]() 
-* [Tutorial 14]()
+* Mini Tutorial (This will help you work with your own data and do some basic analysis!)
+* Tutroial 12: the everything tutorial!
+* Tutorial 13 
+* Tutorial 14
 
 ## Week 9
 * Tutorial 15
